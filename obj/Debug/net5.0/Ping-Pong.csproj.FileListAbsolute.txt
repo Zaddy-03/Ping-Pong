@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\Ping-Pong.exe
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\Ping-Pong.deps.json
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\Ping-Pong.runtimeconfig.json
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\Ping-Pong.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\Ping-Pong.dll
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\ref\Ping-Pong.dll
+C:\Users\HP\Desktop\Ping-Pong\bin\Debug\net5.0\Ping-Pong.pdb
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.AssemblyInfo.cs
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.dll
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\ref\Ping-Pong.dll
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.pdb
+C:\Users\HP\Desktop\Ping-Pong\obj\Debug\net5.0\Ping-Pong.genruntimeconfig.cache
